@@ -1,6 +1,6 @@
 {
   "name": "simple-calculate",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -25,5 +25,6 @@
     "big.js": "^6.2.1"
   },
   "main": "./src/main.ts",
+  "types": "./types/index.d.ts",
   "homepage": "https://github.com/AlanQtten/simple-calculate"
 }
